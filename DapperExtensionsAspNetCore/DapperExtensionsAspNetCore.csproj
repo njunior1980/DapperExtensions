@@ -11,6 +11,7 @@ DapperExtensions for ASP NET Core 2.0</Description>
     <PackageTags>dapper dapper-extensions</PackageTags>
     <PackageReleaseNotes>Rebuilt from DapperExtenions by Thad Smith
 https://github.com/tmsmith/Dapper-Extensions</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/njunior1980/DapperExtensions</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
