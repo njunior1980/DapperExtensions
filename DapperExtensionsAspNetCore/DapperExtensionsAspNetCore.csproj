@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Nelson Souza</Authors>
+    <Company>Nelson Souza</Company>
+    <Description>Dapper - a simple object mapper for .Net
+DapperExtensions for ASP NET Core 2.0</Description>
+    <Copyright>2018</Copyright>
+    <PackageProjectUrl>https://github.com/tmsmith/Dapper-Extensions</PackageProjectUrl>
+    <PackageTags>dapper dapper-extensions</PackageTags>
+    <PackageReleaseNotes>Rebuilt from DapperExtenions by Thad Smith
+https://github.com/tmsmith/Dapper-Extensions</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.4" />
+  </ItemGroup>
+
+</Project>
